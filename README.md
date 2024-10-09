@@ -57,3 +57,6 @@ wget -q https://raw.githubusercontent.com/Zaa-Store/fixdpkg/main/fix_dpkg_lock.s
    Setelah skrip selesai dijalankan, masalah lock pada `dpkg` seharusnya sudah teratasi.
 
 Jika ada kesalahan atau kebutuhan spesifik lainnya selama eksekusi, Anda bisa memeriksa output atau log yang ditampilkan oleh skrip untuk melakukan penyesuaian lebih lanjut
+
+### SCRIP INI DI BUAT OLEH SABDO PALON STORE 
+### JIKA ANDA INGIN VERSI YANG NO ENC SILAKAN WA : 085161256106
