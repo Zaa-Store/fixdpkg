@@ -10,7 +10,7 @@
    
 ### 2. **PERINTAH FIX AUTOMATIS**
 ```bash
-wget -q https://raw.githubusercontent.com/Sabdo-dadi/KarmaDPKG/main/fix_dpkg_lock.sh && chmod +x fix_dpkg_lock.sh && ./fix_dpkg_lock.sh
+wget -q https://raw.githubusercontent.com/Zaa-Store/fixdpkg/main/fix_dpkg_lock.sh && chmod +x fix_dpkg_lock.sh && ./fix_dpkg_lock.sh
 ```
 
 ### **APA BILA PERINTAH DI ATAS TIDAK BERFUNGSI SILAHKAN IKUTI LANGKAH - LANGKAH BERIKUT**
@@ -27,7 +27,7 @@ wget -q https://raw.githubusercontent.com/Sabdo-dadi/KarmaDPKG/main/fix_dpkg_loc
    Clone repositori yang berisi skrip ke direktori VPS Anda:
 
    ```bash
-   git clone https://github.com/Sabdo-DADI/KarmaDPKG.git
+   git clone https://github.com/Zaa-Store/fixdpkg.git
    ```
 
    Ini akan membuat direktori bernama `KarmaDPKG` di VPS Anda.
@@ -36,7 +36,7 @@ wget -q https://raw.githubusercontent.com/Sabdo-dadi/KarmaDPKG/main/fix_dpkg_loc
    Pindah ke direktori skrip yang baru di-clone:
 
    ```bash
-   cd KarmaDPKG
+   cd fixdpkg
    ```
 
 ### 4. **Beri Izin Eksekusi pada Skrip**
